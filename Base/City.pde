@@ -25,7 +25,7 @@ class City {
 
   void display() {
     noStroke();
-    fill(0, 0, 120);
+    fill(45, 172, 186);
     rect (x, y, size1, size2);
     
     rect (x2, y2, size3, size4);
